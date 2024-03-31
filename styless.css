@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+
+  margin: 80px 0px;
+}
+
+.heading1 {
+  font-size: 48px;
+  color: rgb(41 37 36);
+  text-align: center;
+}
+
+.input {
+  font-size: 16px;
+  width: 400px;
+  padding: 10px;
+  border: 1px solid rgb(76 29 149);
+  border-radius: 10px;
+  outline: none;
+  line-height: 1.5;
+}
+
+.heading2 {
+  color: rgb(51 65 85);
+}
+
+form {
+  text-align: center;
+}
+
+.btn {
+  display: block;
+  color: white;
+  margin: 30px auto;
+  padding: 18px 60px;
+  font-size: 16px;
+  background-color: rgb(76 29 149);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.message {
+  text-align: center;
+}
+ul {
+  padding: 0px;
+  list-style-type: none;
+}
+li {
+  margin-bottom: 10px;
+}
